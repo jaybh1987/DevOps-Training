@@ -1,4 +1,4 @@
-## 🔹 Problem: Run-Length Encoding (RLE)
+## 🔹 Problem: Run-Length Encoding
 
 Given an array of elements (e.g., characters or integers), return a compressed version where each group of the same element is represented as a tuple of `[value, count]`.
 

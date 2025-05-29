@@ -40,7 +40,7 @@ Input:
   k = 2
   operation = "max"
 
-Output: [20, 40, 50]  # Segments: [10,20], [30,40], [50] → reversed → [20,10], [40,30], [50] → max → [20,40,50]
+Output: [20, 40, 50] 
 ```
 
 ```python
