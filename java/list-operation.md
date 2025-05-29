@@ -1,7 +1,3 @@
-Great idea — you're combining list reversal, partitioning, and open-ended operations. Here's a **custom interview-style problem statement** that you can use:
-
----
-
 ## 🔹 Problem: **Segmented Reverse List Operations**
 
 ### 🧠 **Problem Statement**
